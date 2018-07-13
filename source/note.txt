@@ -1,0 +1,5 @@
+
+self-attention模型的路径中文件名修改
+savedict_ss = '../source/事实到法条/checkpoints/textlstm-cnn-att1'
+    savedict_jl = '../source/法条到结论/checkpoints/textselfattention_cnn_0711_64bit'
+    这个不需要加/

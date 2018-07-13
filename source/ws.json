@@ -1,0 +1,1040 @@
+{
+  "ss":["当日20时01分许，被告人胡某甲驾驶湘N×××××小型出租车从鹤城区迎丰路由东往西行驶路过该路段时，因超速行驶将上述交通事故受伤倒地的被害人彭某乙再次碾压，造成被害人彭某乙当场死亡的重大交通事故。", "2015年3月10日19时58分许，被告人罗某甲驾驶湘N×××××小型面包车在怀化市鹤城区迎丰路由东往西行驶，当该车行驶至迎丰东路市四中门口路段时因未注意避让行人，将横穿马路的被害人彭某乙撞倒后驾车逃逸。"],
+  "ftmc":["中华人民共和国刑法第一百三十三条","中华人民共和国刑法第六十七条"],
+  "jl":["得到 谅解 认罪 悔罪 具体 情节 刑法 条 规定 判决 犯 交通 肇事罪 判处 缓刑","本院认为 违反 法规 车辆 发生 交通事故 致 人 死亡 行为 构成 交通 肇事罪"],
+  "zz":{
+  "factList": [
+    {
+      "content": "2015年3月10日19时58分许，被告人罗某甲驾驶湘N×××××小型面包车在怀化市鹤城区迎丰路由东往西行驶，当该车行驶至迎丰东路市四中门口路段时因未注意避让行人，将横穿马路的被害人彭某乙撞倒后驾车逃逸。",
+      "keyWordMap": {
+        "what": [
+          "南京华",
+          "南向北",
+          "路口右",
+          "电动自行车"
+        ],
+        "how much": [],
+        "where": [
+          "紫薇路",
+          "清流路口"
+        ],
+        "when": [
+          "2014年6月6日13时"
+        ],
+        "who": [
+          "李某"
+        ]
+      },
+      "evidenceList": [
+        {
+          "result": "采信",
+          "reason": "经一审或二审庭审质证",
+          "submitter": "原告",
+          "headList": ["罗某甲","胡某甲","彭某乙"],
+          "name": "户籍证明",
+          "id": 0,
+          "type": "书证",
+          "content": "证明被告人罗某甲、胡某甲及被害人彭某乙的身份情况。",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["罗某甲","胡某甲","现场等候"],
+          "name": "公安机关出具的到案经过",
+          "id": 0,
+          "type": "",
+          "content": "公安机关出具的到案经过，证明抓获被告人罗某甲的事实经过以及被告人胡某甲案发后在现场等候交警部门处理情况。",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["罗某甲","胡某甲","湘N×××××小型面包车","包太全","湘N×××××小型出租车","陈高兵"],
+          "name": "机动车驾驶证信息",
+          "id": 0,
+          "type": "",
+          "content": "机动车驾驶证信息",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["罗某甲","胡某甲","肇事车辆"],
+          "name": "公安局凭证",
+          "id": 0,
+          "type": "",
+          "content": "公安局凭证",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["湘N×××××小型面包车","包太全","胡某甲","湘N×××××小型出租车","陈高兵","被害人近亲属","赔偿协议","63．5万元","谅解"],
+          "name": "交通事故赔偿协议书、协议书、谅解书、收条",
+          "id": 0,
+          "type": "",
+          "content": "交通事故赔偿协议书、协议书、谅解书、收条",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日20时许","怀化市鹤城区皇廷大酒店门前路段","一辆银灰色面包车","一位行人","撞倒","肇事面包车","逃离","行人","撞倒","清醒"],
+          "name": "胡某乙的证言",
+          "id": 0,
+          "type": "",
+          "content": "胡某乙的证言",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日19时50分许","迎丰东路市四中门口路段","一个老人","银灰色五菱面包车","继续开车","行人","清醒","黄色出租车","撞击"],
+          "name": "李某的证言",
+          "id": 0,
+          "type": "",
+          "content": "李某的证言",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日19时30分许","罗群","罗某甲","湘N×××××号面包车","面包车左边的反光镜坏了"],
+          "name": "罗某乙的证言",
+          "id": 0,
+          "type": "",
+          "content": "罗某乙的证言",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["彭某乙","肇事司机等人","赔偿","63．5万元","其和母亲","谅解"],
+          "name": "证人彭某甲的证言",
+          "id": 0,
+          "type": "",
+          "content": "证人彭某甲的证言",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日20时许","湘N×××××的小型面包车","罗某乙","罗群","鹤城区迎丰路第四中学门口路段","撞到","行人","继续往前面开走了"],
+          "name": "罗某甲的供述",
+          "id": 0,
+          "type": "",
+          "content": "罗某甲的供述",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日20时许","湘N×××××号黄色出租车","车速大概每小时50公里","鹤城区四中门前路段","一个约40岁左右的男子","撞到"],
+          "name": "胡某甲的供述",
+          "id": 0,
+          "type": "",
+          "content": "胡某甲的供述",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["彭某乙"],
+          "name": "怀化市方正司法鉴定中心司法鉴定意见",
+          "id": 0,
+          "type": "",
+          "content": "怀化市方正司法鉴定中心司法鉴定意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["湘N×××××长安牌小型轿车","湘N×××××五菱牌小型面包车"],
+          "name": "湖南明鉴司法鉴定所交通事故车辆技术状况检验意见",
+          "id": 0,
+          "type": "",
+          "content": "湖南明鉴司法鉴定所交通事故车辆技术状况检验意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["湘N×××××长安牌小型轿车"],
+          "name": "湖南明鉴司法鉴定所交通事故车辆痕迹鉴定意见",
+          "id": 0,
+          "type": "",
+          "content": "湖南明鉴司法鉴定所交通事故车辆痕迹鉴定意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["湘N×××××长安牌小型轿车","行驶速度约为62．95km／h"],
+          "name": "湖南明鉴司法鉴定所交通事故车辆行驶速度检验意见",
+          "id": 0,
+          "type": "",
+          "content": "湖南明鉴司法鉴定所交通事故车辆行驶速度检验意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015/3/10","怀化市四中学校门前路段","左侧后视镜","湘N×××××五菱牌小型面包车"],
+          "name": "湖南明鉴司法鉴定所交通事故交通事故现场散落物比对分析鉴定意见",
+          "id": 0,
+          "type": "",
+          "content": "湖南明鉴司法鉴定所交通事故交通事故现场散落物比对分析鉴定意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["胡某甲"],
+          "name": "怀化市方正司法鉴定中心司法鉴定意见",
+          "id": 0,
+          "type": "",
+          "content": "怀化市方正司法鉴定中心司法鉴定意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["罗某甲","胡某甲","主要责任","彭某乙","次要责任"],
+          "name": "怀化市公安局交通警察支队事故处理大队道路交通事故认定书",
+          "id": 0,
+          "type": "",
+          "content": "怀化市公安局交通警察支队事故处理大队道路交通事故认定书",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["案发现场位置、概貌"],
+          "name": "道路交通事故现场勘查笔录、交通事故情况记录、交通事故现场图及照片。",
+          "id": 0,
+          "type": "",
+          "content": "道路交通事故现场勘查笔录、交通事故情况记录、交通事故现场图及照片。",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        }
+
+
+
+
+
+      ],
+      "linkPointList": [
+        {
+          "value": "罗某甲",
+          "evidenceValue": "罗某甲",
+          "index": 0
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "彭某乙",
+          "index": 0
+        },
+        {
+          "value": "罗某甲",
+          "evidenceValue": "罗某甲",
+          "index": 1
+        },
+        {
+          "value": "罗某甲",
+          "evidenceValue": "罗某甲",
+          "index": 2
+        },
+        {
+          "value": "湘N×××××小型面包车",
+          "evidenceValue": "湘N×××××小型面包车",
+          "index": 2
+        },
+        {
+          "value": "罗某甲",
+          "evidenceValue": "罗某甲",
+          "index": 3
+        },
+        {
+          "value": "湘N×××××小型面包车",
+          "evidenceValue": "肇事车辆",
+          "index": 3
+        },
+        {
+          "value": "2015年3月10日20时许",
+          "evidenceValue": "2015年3月10日20时许",
+          "index": 5
+        },
+        {
+          "value": "迎丰东路市四中门口路段",
+          "evidenceValue": "迎丰东路市四中门口路段",
+          "index": 5
+        },
+        {
+          "value": "湘N×××××小型面包车",
+          "evidenceValue": "一辆银灰色面包车",
+          "index": 5
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "一位行人",
+          "index": 5
+        },
+        {
+          "value": "撞",
+          "evidenceValue": "撞",
+          "index": 5
+        },
+        {
+          "value": "湘N×××××小型面包车",
+          "evidenceValue": "肇事面包车",
+          "index": 5
+        },
+        {
+          "value": "驾车逃逸",
+          "evidenceValue": "逃离",
+          "index": 5
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "行人",
+          "index": 5
+        },
+        {
+          "value": "撞",
+          "evidenceValue": "撞",
+          "index": 5
+        },
+        {
+          "value": "清醒",
+          "evidenceValue": "清醒",
+          "index": 5
+        },
+        {
+          "value": "迎丰东路市四中门口路段",
+          "evidenceValue": "迎丰东路市四中门口路段",
+          "index": 6
+        },
+        {
+          "value": "2015年3月10日20时许",
+          "evidenceValue": "2015年3月10日19时50分许",
+          "index": 6
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "一个老人",
+          "index": 6
+        },
+        {
+          "value": "湘N×××××小型面包车",
+          "evidenceValue": "银灰色五菱面包车",
+          "index": 6
+        },
+        {
+          "value": "驾车逃逸",
+          "evidenceValue": "继续开车",
+          "index": 6
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "行人",
+          "index": 6
+        },
+        {
+          "value": "清醒",
+          "evidenceValue": "清醒",
+          "index": 6
+        },
+        {
+          "value": "2015年3月10日20时许",
+          "evidenceValue": "2015年3月10日19时30分许",
+          "index": 7
+        },
+        {
+          "value": "罗群",
+          "evidenceValue": "罗群",
+          "index": 7
+        },
+        {
+          "value": "罗某甲",
+          "evidenceValue": "罗某甲",
+          "index": 7
+        },
+        {
+          "value": "湘N×××××小型面包车",
+          "evidenceValue": "湘N×××××号面包车",
+          "index": 7
+        },
+        {
+          "value": "面包车左反光镜",
+          "evidenceValue": "面包车左边的反光镜坏了",
+          "index": 7
+        },
+        {
+          "value": "2015年3月10日20时许",
+          "evidenceValue": "2015年3月10日20时许",
+          "index": 9
+        },
+        {
+          "value": "湘N×××××小型面包车",
+          "evidenceValue": "湘N×××××小型面包车",
+          "index": 9
+        },
+        {
+          "value": "罗某乙",
+          "evidenceValue": "罗某乙",
+          "index": 9
+        },
+        {
+          "value": "罗群",
+          "evidenceValue": "罗群",
+          "index": 9
+        },
+        {
+          "value": "迎丰东路市四中门口路段",
+          "evidenceValue": "鹤城区迎丰路第四中学门口路段",
+          "index": 9
+        },
+        {
+          "value": "撞",
+          "evidenceValue": "撞到",
+          "index": 9
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "行人",
+          "index": 9
+        },
+        {
+          "value": "驾车逃逸",
+          "evidenceValue": "继续往前面开走了",
+          "index": 9
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "彭某乙",
+          "index": 11
+        },
+        {
+          "value": "2015/3/10",
+          "evidenceValue": "2015/3/10",
+          "index": 15
+        },
+        {
+          "value": "迎丰东路市四中门口路段",
+          "evidenceValue": "怀化市四中学校门前路段",
+          "index": 15
+        },
+        {
+          "value": "面包车左反光镜",
+          "evidenceValue": "左侧后视镜",
+          "index": 15
+        },
+        {
+          "value": "湘N×××××小型面包车",
+          "evidenceValue": "湘N×××××五菱牌小型面包车",
+          "index": 15
+        },
+        {
+          "value": "迎丰东路市四中门口路段",
+          "evidenceValue": "案发现场位置、概貌",
+          "index": 18
+        }
+
+
+
+
+
+
+
+
+      ]
+    },
+
+    {
+      "content": "当日20时01分许，被告人胡某甲驾驶湘N×××××小型出租车从鹤城区迎丰路由东往西行驶路过该路段时，因超速行驶将上述交通事故受伤倒地的被害人彭某乙再次碾压，造成被害人彭某乙当场死亡的重大交通事故。",
+      "keyWordMap": {
+        "what": [
+          "南京华",
+          "南向北",
+          "路口右",
+          "电动自行车"
+        ],
+        "how much": [],
+        "where": [
+          "紫薇路",
+          "清流路口"
+        ],
+        "when": [
+          "2014年6月6日13时"
+        ],
+        "who": [
+          "李某"
+        ]
+      },
+      "evidenceList": [
+        {
+          "result": "采信",
+          "reason": "经一审或二审庭审质证",
+          "submitter": "原告",
+          "headList": ["罗某甲","胡某甲","彭某乙"],
+          "name": "户籍证明",
+          "id": 0,
+          "type": "书证",
+          "content": "证明被告人罗某甲、胡某甲及被害人彭某乙的身份情况。",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["罗某甲","胡某甲","现场等候"],
+          "name": "公安机关出具的到案经过",
+          "id": 0,
+          "type": "",
+          "content": "公安机关出具的到案经过，证明抓获被告人罗某甲的事实经过以及被告人胡某甲案发后在现场等候交警部门处理情况。",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["罗某甲","胡某甲","湘N×××××小型面包车","包太全","湘N×××××小型出租车","陈高兵"],
+          "name": "机动车驾驶证信息",
+          "id": 0,
+          "type": "",
+          "content": "机动车驾驶证信息",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["罗某甲","胡某甲","肇事车辆"],
+          "name": "公安局凭证",
+          "id": 0,
+          "type": "",
+          "content": "公安局凭证",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["湘N×××××小型面包车","包太全","胡某甲","湘N×××××小型出租车","陈高兵","被害人近亲属","赔偿协议","63．5万元","谅解"],
+          "name": "交通事故赔偿协议书、协议书、谅解书、收条",
+          "id": 0,
+          "type": "",
+          "content": "交通事故赔偿协议书、协议书、谅解书、收条",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日20时许","怀化市鹤城区皇廷大酒店门前路段","一辆银灰色面包车","一位行人","撞倒","肇事面包车","逃离","行人","撞倒","清醒"],
+          "name": "胡某乙的证言",
+          "id": 0,
+          "type": "",
+          "content": "胡某乙的证言",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日19时50分许","怀化市四中大门口路段","一个老人","银灰色五菱面包车","继续开车","行人","清醒","黄色出租车","撞击"],
+          "name": "李某的证言",
+          "id": 0,
+          "type": "",
+          "content": "李某的证言",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日19时30分许","罗群","罗某甲","湘N×××××号面包车","面包车左边的反光镜坏了"],
+          "name": "罗某乙的证言",
+          "id": 0,
+          "type": "",
+          "content": "罗某乙的证言",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["彭某乙","肇事司机等人","赔偿","63．5万元","其和母亲","谅解"],
+          "name": "证人彭某甲的证言",
+          "id": 0,
+          "type": "",
+          "content": "证人彭某甲的证言",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日20时许","湘N×××××的小型面包车","罗某乙","罗群","鹤城区迎丰路第四中学门口路段","撞到","行人","继续往前面开走了"],
+          "name": "罗某甲的供述",
+          "id": 0,
+          "type": "",
+          "content": "罗某甲的供述",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015年3月10日20时许","湘N×××××号黄色出租车","车速大概每小时50公里","鹤城区四中门前路段","一个约40岁左右的男子","撞到"],
+          "name": "胡某甲的供述",
+          "id": 0,
+          "type": "",
+          "content": "胡某甲的供述",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["彭某乙"],
+          "name": "怀化市方正司法鉴定中心司法鉴定意见",
+          "id": 0,
+          "type": "",
+          "content": "怀化市方正司法鉴定中心司法鉴定意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["湘N×××××长安牌小型轿车","湘N×××××五菱牌小型面包车"],
+          "name": "湖南明鉴司法鉴定所交通事故车辆技术状况检验意见",
+          "id": 0,
+          "type": "",
+          "content": "湖南明鉴司法鉴定所交通事故车辆技术状况检验意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["湘N×××××长安牌小型轿车"],
+          "name": "湖南明鉴司法鉴定所交通事故车辆痕迹鉴定意见",
+          "id": 0,
+          "type": "",
+          "content": "湖南明鉴司法鉴定所交通事故车辆痕迹鉴定意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["湘N×××××长安牌小型轿车","行驶速度约为62．95km／h"],
+          "name": "湖南明鉴司法鉴定所交通事故车辆行驶速度检验意见",
+          "id": 0,
+          "type": "",
+          "content": "湖南明鉴司法鉴定所交通事故车辆行驶速度检验意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["2015/3/10","怀化市四中学校门前路段","左侧后视镜","湘N×××××五菱牌小型面包车"],
+          "name": "湖南明鉴司法鉴定所交通事故交通事故现场散落物比对分析鉴定意见",
+          "id": 0,
+          "type": "",
+          "content": "湖南明鉴司法鉴定所交通事故交通事故现场散落物比对分析鉴定意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["胡某甲"],
+          "name": "怀化市方正司法鉴定中心司法鉴定意见",
+          "id": 0,
+          "type": "",
+          "content": "怀化市方正司法鉴定中心司法鉴定意见",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["罗某甲","胡某甲","主要责任","彭某乙","次要责任"],
+          "name": "怀化市公安局交通警察支队事故处理大队道路交通事故认定书",
+          "id": 0,
+          "type": "",
+          "content": "怀化市公安局交通警察支队事故处理大队道路交通事故认定书",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        },
+        {
+          "result": "",
+          "reason": "",
+          "submitter": "",
+          "headList": ["案发现场位置、概貌"],
+          "name": "道路交通事故现场勘查笔录、交通事故情况记录、交通事故现场图及照片。",
+          "id": 0,
+          "type": "",
+          "content": "道路交通事故现场勘查笔录、交通事故情况记录、交通事故现场图及照片。",
+          "keyWordMap": {
+            "what": [],
+            "how much": [],
+            "where": [],
+            "when": [],
+            "who": []
+          }
+        }
+
+
+      ],
+      "linkPointList": [
+        {
+          "value": "胡某甲",
+          "evidenceValue": "胡某甲",
+          "index": 0
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "彭某乙",
+          "index": 0
+        },
+        {
+          "value": "胡某甲",
+          "evidenceValue": "胡某甲",
+          "index": 1
+        },
+        {
+          "value": "现场等候",
+          "evidenceValue": "现场等候",
+          "index": 1
+        },
+        {
+          "value": "胡某甲",
+          "evidenceValue": "罗某甲",
+          "index": 2
+        },
+        {
+          "value": "湘N×××××小型出租车",
+          "evidenceValue": "湘N×××××小型出租车",
+          "index": 2
+        },
+        {
+          "value": "胡某甲",
+          "evidenceValue": "胡某甲",
+          "index": 3
+        },
+        {
+          "value": "湘N×××××小型出租车",
+          "evidenceValue": "肇事车辆",
+          "index": 3
+        },
+        {
+          "value": "湘N×××××小型出租车",
+          "evidenceValue": "黄色出租车",
+          "index": 6
+        },
+        {
+          "value": "撞",
+          "evidenceValue": "撞击",
+          "index": 6
+        },
+        {
+          "value": "2015年3月10日20时许",
+          "evidenceValue": "2015年3月10日20时许",
+          "index": 10
+        },
+        {
+          "value": "湘N×××××小型出租车",
+          "evidenceValue": "湘N×××××号黄色出租车",
+          "index": 10
+        },
+        {
+          "value": "超速行驶",
+          "evidenceValue": "车速大概每小时50公里",
+          "index": 10
+        },
+        {
+          "value": "迎丰东路市四中门口路段",
+          "evidenceValue": "鹤城区四中门前路段",
+          "index": 10
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "一个约40岁左右的男子",
+          "index": 10
+        },
+        {
+          "value": "撞",
+          "evidenceValue": "撞到",
+          "index": 10
+        },
+        {
+          "value": "彭某乙",
+          "evidenceValue": "彭某乙",
+          "index": 11
+        },
+        {
+          "value": "湘N×××××小型出租车",
+          "evidenceValue": "湘N×××××长安牌小型轿车",
+          "index": 13
+        },
+        {
+          "value": "湘N×××××小型出租车",
+          "evidenceValue": "湘N×××××长安牌小型轿车",
+          "index": 14
+        },
+        {
+          "value": "超速行驶",
+          "evidenceValue": "行驶速度约为62．95km／h",
+          "index": 14
+        }
+      ]
+    }
+  ]
+}
+
+
+}
